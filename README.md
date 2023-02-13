@@ -6,7 +6,7 @@
 ### <div align="center">Hi, my name is Gleb, and i love to develope awesome web applications 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Phone book](https://github.com/blackdzen/phonebook.git)  
+- 🔭 I’m currently working on [Phone book](https://github.com/blackdzen/helptalk)  
   
 
 - 🌱 I’m currently learning React  
